@@ -30,3 +30,4 @@ def calculator():
 
 
 print(calculator())
+print(a+b)
